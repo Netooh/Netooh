@@ -3,7 +3,7 @@
 
 [![Blog](https://img.shields.io/badge/celsoneto-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://celsoneto.site)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:celsoneto.contato@gmail.com)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/celso-pereira-de-jesus-neto-089931329/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/celsonetoo)
 
 ![Netooh GitHub stats](https://github-readme-stats.vercel.app/api?username=Netooh&show_icons=true&theme=dracula)
 
